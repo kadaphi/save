@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "save-restricted-content-bot",
+      "script": "./dist/bot.js"
+    }
+  ]
+}
